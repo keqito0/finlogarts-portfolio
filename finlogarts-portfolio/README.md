@@ -4,7 +4,7 @@ Projeto de portfólio com dados fictícios (`meli-bi-data.TMP.*`) para demonstra
 
 ## 🔗 Links
 - **Dashboard (Looker Studio):https://lookerstudio.google.com/u/0/reporting/2ef16139-c9fe-48fa-9a90-f62e3603fcd7/page/ZBcYF
-- **One‑pager (PDF):** _adicione aqui o link do PDF no GitHub (ex.: /docs/onepager.pdf)_
+- **One‑pager (PDF):docs/onepager.pdf
 
 ## 📦 Estrutura
 ```
